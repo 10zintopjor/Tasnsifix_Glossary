@@ -1,0 +1,10 @@
+term,pos,comment,is_case_sensitive,en,comment_en
+[་ -བྱང་ཆུབ་ སེམས་དཔའ་ -འི་ ཚུལ་ཁྲིམས་ ཀྱི་ སྡོམ་པ་ ]་ -ཡང་དག་པ་ -ར་ བླང་བ,,term-[bodhisattvaśīlasaṃvara]samādāna,yes,Teachings on the ceremony of taking [the vows of the bodhisattva discipline],"\nNone\nToh 106, Buddhavacana Translation Group (Vienna),v 1.0.9"
+ཀ་ ཆེ,,place-Kaśmīra,yes,Kaśmīra,"\nKashmir\nToh 543, Dharmachakra Translation Committee,v 1.21.16"
+ཀ་ ཏ་ མོ་ར་ ཀ་ ཏི་ ཤ,,person-Kaṭamorakatiṣya,yes,Kaṭamorakatiṣya,"\nOne of the members of a group of four monks described in the Vinaya as followers of Devadatta that attempted to create a schism in the Buddhist saṅgha.\nToh 61, Dharmachakra Translation Committee.,v 1.2.16"
+ཀ་ ཏ་ མོ་ར་ ཀ་ ཏི་ ཤྱ,,person-Kaṭamorakatiṣya,yes,Kaṭamorakatiṣya,"\nOne of four cronies of Devadatta.\nToh 340, Dr. Lozang Jamspal (International Buddhist College, Thailand) and Kaia Tara Fischer,v 1.3.22"
+ཀ་ཏ་ཡ་ན་ ཆེན་ མོ,,person-Mahākātyāyanī,yes,Mahākātyāyanī,"\n‟Great Kātyāyanī,” one of the eight kātyāyanī spirits.\nToh 747, Dharmachakra Translation Committee,v 1.0.3"
+ཀ་ཏ་ཡ་ན་ དྲེགས་ མ,,person-Rudrakātyāyanī,yes,Rudrakātyāyanī,"\n‟Violent Kātyāyanī,” one of the eight kātyāyanī spirits.\nToh 747, Dharmachakra Translation Committee,v 1.0.3"
+ཀ་ཏ་ཡ་ན་ མཛེས་མ,,person-Śubhakātyāyanī,yes,Śubhakātyāyanī,"\n‟Beautiful Kātyāyanī,” one of the eight kātyāyanī spirits.\nToh 747, Dharmachakra Translation Committee,v 1.0.3"
+ཀ་ཏ་ཡ་ན་ མཛེས་མ,,person-Sumbha­kātyāyanī,yes,Sumbha­kātyāyanī,"\n‟Radiantly Beautiful Kātyāyanī,” one of the eight kātyāyanī spirits.\nToh 747, Dharmachakra Translation Committee,v 1.0.3"
+ཀ་ཏ་ཡ་ན་ ཞི་བ་ མ,,person-Surakātyāyanī,yes,Surakātyāyanī,"\n‟Divine Kātyāyanī,” one of the eight kātyāyanī spirits.\nToh 747, Dharmachakra Translation Committee,v 1.0.3"
